@@ -1,3 +1,6 @@
+The React Quiz gets its data from a local API, in order to access the test you must first start the serverby running : 
+npm run server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
